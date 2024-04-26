@@ -2,7 +2,7 @@
 <hr/>
 
 **Full Stack Developer/Automation Engineer/Devops**
-- 🔭 I’m currently working on __Automation Framework of Selenium & Python__
+- 🔭 I’m currently working on __Automation Framework of Selenium & Python__ & __Automation Framework of Playwright & Typescript__
 - 🌱 I’m currently learning __Typescript, Docker, Kubernetes__
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyam1212&label=Profile%20views&color=0e75b6&style=flat" alt="satyam1212" /> </p>
